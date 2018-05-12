@@ -1,0 +1,14 @@
+﻿[유하나] 
+특징 배고프다
+키 156cm
+경로 Character/Character_0
+
+[카나]
+특징 멍멍
+키 10cm
+경로 Character/Character_1
+
+[강바람]
+특징 멍멍
+키 10cm
+경로 Character/Character_1
